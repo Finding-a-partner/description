@@ -8,7 +8,7 @@
 4) Group-service: создание групп
 5) API Gateway: маршрутизация запросов, аутентификация через JWT
 6) Service Discovery: реализация через Spring Cloud Eureka
-7) Feed-service пермональная новостная лента
+7) Feed-service: персональная новостная лента
 # Что было использовано
 Spring Boot для создания микросервисов, PostgreSQL для хранения данных. Интерфейс для пользователя написан на React TypeScript.
 # Запуск
